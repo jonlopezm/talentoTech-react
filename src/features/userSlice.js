@@ -8,7 +8,7 @@ const users = [
         "lastname": "Doe",
         "email": "johndoe@example.com",
         "password": "$2b$10$aKQWGDnvo9/9RXJ64wwXs.BwyXDAMs5Awdj.JJwLxs0zuQWrFwcfa", 
-        "avatar": "uploads\1708390545609-2410.PNG"      
+        "avatar": "708390545609-2410.PNG"      
     }
 ]
 
